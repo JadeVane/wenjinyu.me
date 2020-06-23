@@ -6,6 +6,48 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "11753455",
+      "name": "右箭头",
+      "font_class": "right",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "1727570",
+      "name": "333加载loading-A",
+      "font_class": "spinner",
+      "unicode": "e8fc",
+      "unicode_decimal": 59644
+    },
+    {
+      "icon_id": "879161",
+      "name": "菜单",
+      "font_class": "menu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3879302",
+      "name": "标签",
+      "font_class": "tags",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "5664683",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "4186487",
+      "name": "钱",
+      "font_class": "donations",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
       "icon_id": "929736",
       "name": "rss",
       "font_class": "rss",
@@ -32,13 +74,6 @@
       "font_class": "friends",
       "unicode": "e60f",
       "unicode_decimal": 58895
-    },
-    {
-      "icon_id": "5330148",
-      "name": "评论组",
-      "font_class": "comments",
-      "unicode": "e765",
-      "unicode_decimal": 59237
     },
     {
       "icon_id": "5330172",
@@ -88,13 +123,6 @@
       "font_class": "date",
       "unicode": "e6de",
       "unicode_decimal": 59102
-    },
-    {
-      "icon_id": "13953505",
-      "name": "右",
-      "font_class": "right",
-      "unicode": "e600",
-      "unicode_decimal": 58880
     },
     {
       "icon_id": "8361799",
