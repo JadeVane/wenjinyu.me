@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "4186777",
+      "name": "我",
+      "font_class": "me",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
       "icon_id": "11753455",
       "name": "右箭头",
       "font_class": "right",
@@ -57,7 +64,7 @@
     {
       "icon_id": "1115086",
       "name": "用户",
-      "font_class": "me",
+      "font_class": "about",
       "unicode": "e643",
       "unicode_decimal": 58947
     },
