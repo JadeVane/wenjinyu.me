@@ -6,18 +6,18 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "1770588",
-      "name": "文字",
+      "icon_id": "12592147",
+      "name": "羽毛笔",
       "font_class": "words",
-      "unicode": "e652",
-      "unicode_decimal": 58962
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
     },
     {
-      "icon_id": "1766468",
-      "name": "符号-标签",
+      "icon_id": "14441745",
+      "name": "树叶",
       "font_class": "tags",
-      "unicode": "e690",
-      "unicode_decimal": 59024
+      "unicode": "e627",
+      "unicode_decimal": 58919
     },
     {
       "icon_id": "3731065",
